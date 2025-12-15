@@ -1,6 +1,8 @@
 # SYSTEM INFO DASHBORD SCRIPT
 
-[![License: MIT](assets/image/dashboard.png)](opensource.org)
+<!-- Corrected version: assuming 'dashboard.png' is in an 'assets' folder in your repo -->
+[![License: MIT](./assets/image/dashboard.png)](opensource.org)
+
 
 <!-- Add more badges from Shields.io as needed, e.g., for build status or version -->
 
